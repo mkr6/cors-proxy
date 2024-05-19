@@ -23,7 +23,7 @@ const { exit } = require("process");
 //========================================================================================================================
 
 var config = {
-	server_port: 1337, // only for http
+	server_port: 42069, // only for http
 
 	rpc_url: "https://testnet-dmc.mydefichain.com:20551",
 //	rpc_url: "https://changinode1.defiserver.de",
